@@ -10,3 +10,8 @@ function reverseString(string){
 let userString = prompt("Enter a string to reverse");
 let stringReversed = reverseString(userString);
 alert(stringReversed);
+
+//Capitalize a letter
+function splitStringIntoWords(string){
+    let myArrayOfWords = string.split(" ");
+}
